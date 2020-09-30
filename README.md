@@ -128,3 +128,6 @@ review the [guidelines for contributing](CONTRIBUTING.md).
 
 ## Licensing
 **Style Guide Boilerplate** is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+
+Thanks for reading our complete project.
+You can contribute in this project by tell us about improvements in it through pull request.
